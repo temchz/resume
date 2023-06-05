@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: normal;
     color: #0f141e;
     background: #f1f1f1;
@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    max-width: 900px;
+    max-width: 750px;
     margin: auto;
     padding: 30px;
 }
@@ -58,7 +58,7 @@ body {
 
 .card {
     padding: 15px 20px;
-    border-radius: 15px;
+    border-radius: 20px;
     margin-bottom: 20px;
 }
 
@@ -70,11 +70,11 @@ body {
  }
 
  .work {
-    background-color: ffe5e5;
+    background-color: #ffe5e5;
  }
 
  .courses {
-    background-color: e5ffe7;
+    background-color: #e5ffe7;
  }
 
  a {
@@ -83,7 +83,6 @@ body {
 }
 
  a:hover {
-    color: orange;
     text-decoration: underline;   
  }
 
@@ -97,7 +96,7 @@ a.visited {
 
  .btn {
     background: #111;
-    padding: 10px 20px;
+    padding: 15px 20px;
     color: #fff;
     border: none;       
     font-family: inherit;
@@ -119,7 +118,7 @@ a.visited {
 
  .link-list {
     list-style: none;
-    padding: 0px;
+    padding: 0;
  }
 
  .link-list li {
@@ -148,7 +147,7 @@ a.visited {
  .form-row {
    margin-bottom: 10px;
    display: flex;
-   padding: 20px;
+   padding: 0;
 
  }
 
